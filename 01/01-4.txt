@@ -1,0 +1,8 @@
+Inside the envelopes are
+$1	$2	$4	$8	$16	$32
+$64	$128	$256	$114	$114	$261
+separately.
+
+Regard the last three envelopes as one, containing $489. Number the remaining envelopes 0, 1, 2, ..., 7 sequentially from which containing $1 to which containing $256 in ascending order.
+
+For the required amount of money represented by $x, if x is no less than than 489, we choose the last three envelope first, then represent x-489 in binary. If x=489, we are done, or we just continue to choose the envelope numbered i if the i-th digit is 1 for i=0, 1, 2, ..., 7.

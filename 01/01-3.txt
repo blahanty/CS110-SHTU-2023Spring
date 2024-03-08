@@ -1,0 +1,6 @@
+Decimal: 6, 9, 15, 9, 9;
+Hexadecimal: 0x69F99.
+
+J, F.
+
+0xE9E9E, 0x9DFB9 or 0x9D9B9 or 0x9DB9(if "5 hex digits" is not compulsory).
